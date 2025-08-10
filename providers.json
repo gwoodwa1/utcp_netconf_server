@@ -1,0 +1,9 @@
+[
+  {
+    "name": "netconf_tools",
+    "provider_type": "http",
+    "http_method": "GET",
+    "url": "http://localhost:8000/openapi.json",
+    "content_type": "application/json"
+  }
+]
